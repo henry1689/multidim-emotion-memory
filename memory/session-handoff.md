@@ -52,6 +52,7 @@ Use this file as the first resume note for the current unfinished task on this h
   - `knowledge/digital-brain/01-overall-architecture-zh.md`
   - `knowledge/digital-brain/02-sub-architectures-zh.md`
   - `knowledge/digital-brain/03-task-breakdown-zh.md`
+  - `knowledge/digital-brain/05-cognitive-collaborator-principles-zh.md`
   - `memory/digital-brain-project-board.md`
 - 已完成私有仓同步基线：
   - GitHub 私有仓：`henry1689/multidim-emotion-memory`
@@ -82,10 +83,11 @@ Use this file as the first resume note for the current unfinished task on this h
   - 阶段 2：`2026-06-08` 至 `2026-06-14`
   - 阶段 3：`2026-06-15` 至 `2026-06-21`
   - 阶段 4：`2026-06-22` 至 `2026-06-24`
+- 已完成 `DB-A01`：
+  - 冻结“认知协作者 / 非诊断器 / 三层记忆模型 / 不确定性输出 / 高风险降级”正式原则文档
 
 ## Open Blockers
 
-- `DB-A01` 仍需补一版正式“认知协作者 / 非诊断器”原则文案
 - `状态维` 是否进入正式九维仍未最终决定
 - `DB-M01` 中 `Cue / Signal / Interpretation` 边界尚未冻结
 - `DB-M02` 中九维字段、强度、置信规则尚未成文
@@ -94,10 +96,10 @@ Use this file as the first resume note for the current unfinished task on this h
 
 ## Suggested Next Step
 
-- 先推进 `DB-A01`：
-  - 补项目边界、认知协作者原则、免责声明规则
-- 再推进 `DB-M01`：
+- 先推进 `DB-M01`：
   - 冻结 `Cue / Signal / Interpretation` 三层定义
+- 再推进 `DB-M02`：
+  - 冻结九维字段、强度、置信与来源规则
 - 然后推进 `DB-K01 ~ DB-K03`：
   - 字典式记忆块
   - 在线脑补

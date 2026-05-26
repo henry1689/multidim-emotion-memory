@@ -7,6 +7,7 @@
 - `01-overall-architecture-zh.md`：总架构、核心对象、主链路
 - `02-sub-architectures-zh.md`：子架构拆分、模块边界、数据流
 - `03-task-breakdown-zh.md`：任务编号、要求、标准、验收条件
+- `05-cognitive-collaborator-principles-zh.md`：认知协作者原则、边界与不确定性规则
 
 ## 当前定位
 
