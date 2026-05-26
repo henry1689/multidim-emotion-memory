@@ -9,6 +9,7 @@
 - GitHub 私有仓：`henry1689/multidim-emotion-memory`
 - 远端同步状态：`connected`
 - 最近一次远端推送：`2026-05-26`
+- 多 agent 协作协议：`drafted`
 
 ## 时间表
 
@@ -90,6 +91,7 @@
 3. Demo 样例集尚未整理，后续难以做一致验收。
 4. DB-A01 与 DB-M01 文档已出，但仍需在对象字典和 UI 输出里贯彻落实。
 5. `MemoryEpisode` 与 `EpisodeFingerprint` 仍未形成正式字段文档。
+6. 多 agent 协作协议已起草，但第一批任务包尚未正式实例化。
 
 ## 当前下一步
 

@@ -53,6 +53,7 @@ Use this file as the first resume note for the current unfinished task on this h
   - `knowledge/digital-brain/02-sub-architectures-zh.md`
   - `knowledge/digital-brain/03-task-breakdown-zh.md`
   - `knowledge/digital-brain/05-cognitive-collaborator-principles-zh.md`
+  - `knowledge/digital-brain/07-hermes-multi-agent-protocol-zh.md`
   - `memory/digital-brain-project-board.md`
 - 已完成私有仓同步基线：
   - GitHub 私有仓：`henry1689/multidim-emotion-memory`
@@ -91,6 +92,9 @@ Use this file as the first resume note for the current unfinished task on this h
     - `Cue`：原始线索
     - `Signal`：可观测模式
     - `Interpretation`：候选解释
+- 已起草多 agent 协作协议：
+  - 定义主控 agent、Hermes 总调度 agent 和执行 agent 的职责分工
+  - 定义任务包格式、分支约定、状态枚举和冲突处理规则
 
 ## Open Blockers
 
@@ -99,6 +103,7 @@ Use this file as the first resume note for the current unfinished task on this h
 - `DB-K02` 与 `DB-K03` 中在线脑补、离线脑补的对象复用规则尚未细化
 - demo 样例集尚未整理，后续无法做一致验收
 - `MemoryEpisode` 与 `EpisodeFingerprint` 字段结构尚未正式成文
+- 第一批可直接下发给 Hermes 的任务包还未实例化
 
 ## Suggested Next Step
 
@@ -112,3 +117,5 @@ Use this file as the first resume note for the current unfinished task on this h
   - 字典式记忆块
   - 在线脑补
   - 离线脑补
+- 等 `DB-M02` 稳定后：
+  - 生成第一批 Hermes 任务包

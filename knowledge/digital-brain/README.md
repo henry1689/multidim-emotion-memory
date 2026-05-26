@@ -9,6 +9,7 @@
 - `03-task-breakdown-zh.md`：任务编号、要求、标准、验收条件
 - `05-cognitive-collaborator-principles-zh.md`：认知协作者原则、边界与不确定性规则
 - `06-cue-signal-interpretation-zh.md`：`Cue / Signal / Interpretation` 三层定义
+- `07-hermes-multi-agent-protocol-zh.md`：Hermes 多 agent 分包协议
 
 ## 当前定位
 
