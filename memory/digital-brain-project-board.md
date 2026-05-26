@@ -6,6 +6,9 @@
 - 项目状态：`planning`
 - 当前阶段：`architecture-definition`
 - 当前重点：冻结架构、对象模型与任务拆解
+- GitHub 私有仓：`henry1689/multidim-emotion-memory`
+- 远端同步状态：`connected`
+- 最近一次远端推送：`2026-05-26`
 
 ## 时间表
 
@@ -68,6 +71,17 @@
 | DB-U03 | 前端联动 | pending | 3 | 2026-06-17 ~ 2026-06-21 | 联动规则待定义 |
 | DB-T01 | 验收基线 | pending | 4 | 2026-06-22 ~ 2026-06-23 | 成功/失败样例尚未整理 |
 | DB-O01 | 项目台账 | in_progress | 0 | 2026-05-26 ~ 2026-05-31 | 需随着后续推进持续更新 |
+
+## 同步状态
+
+- 私有仓已接通并完成首版推送
+- 当前远端分支：`main`
+- 当前首版提交：`85fd4f4`
+- 本地 bundle 备份：
+  - `tmp/backups/git-bundles/codex-ops-20260526-190449.bundle`
+- 后续同步脚本：
+  - `./scripts/export-digital-brain-sync-tree.sh`
+  - `./scripts/sync-digital-brain-repo.sh /tmp/digital-brain-repo`
 
 ## 当前问题清单
 

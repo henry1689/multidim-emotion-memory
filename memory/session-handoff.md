@@ -53,6 +53,20 @@ Use this file as the first resume note for the current unfinished task on this h
   - `knowledge/digital-brain/02-sub-architectures-zh.md`
   - `knowledge/digital-brain/03-task-breakdown-zh.md`
   - `memory/digital-brain-project-board.md`
+- 已完成私有仓同步基线：
+  - GitHub 私有仓：`henry1689/multidim-emotion-memory`
+  - 已通过 SSH 接通
+  - 已完成首版推送，提交：`85fd4f4`
+  - 已生成本地 bundle 备份：
+    - `tmp/backups/git-bundles/codex-ops-20260526-190449.bundle`
+  - 已新增同步相关文件：
+    - `knowledge/digital-brain/04-private-repo-sync-zh.md`
+    - `memory/digital-brain-sync-manifest.md`
+    - `scripts/export-digital-brain-sync-tree.sh`
+    - `scripts/sync-digital-brain-repo.sh`
+    - `scripts/git-sync-preflight.sh`
+    - `scripts/git-bundle-backup.sh`
+    - `scripts/github-create-private-origin.sh`
 - 已建立任务编号体系：
   - `DB-Axx` 架构与原则
   - `DB-Mxx` 对象模型与记忆模型
