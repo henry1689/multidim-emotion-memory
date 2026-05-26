@@ -85,21 +85,29 @@ Use this file as the first resume note for the current unfinished task on this h
   - 阶段 4：`2026-06-22` 至 `2026-06-24`
 - 已完成 `DB-A01`：
   - 冻结“认知协作者 / 非诊断器 / 三层记忆模型 / 不确定性输出 / 高风险降级”正式原则文档
+- 已完成 `DB-M01`：
+  - 冻结 `Cue / Signal / Interpretation` 三层定义
+  - 明确三层关系为：
+    - `Cue`：原始线索
+    - `Signal`：可观测模式
+    - `Interpretation`：候选解释
 
 ## Open Blockers
 
 - `状态维` 是否进入正式九维仍未最终决定
-- `DB-M01` 中 `Cue / Signal / Interpretation` 边界尚未冻结
 - `DB-M02` 中九维字段、强度、置信规则尚未成文
 - `DB-K02` 与 `DB-K03` 中在线脑补、离线脑补的对象复用规则尚未细化
 - demo 样例集尚未整理，后续无法做一致验收
+- `MemoryEpisode` 与 `EpisodeFingerprint` 字段结构尚未正式成文
 
 ## Suggested Next Step
 
-- 先推进 `DB-M01`：
-  - 冻结 `Cue / Signal / Interpretation` 三层定义
-- 再推进 `DB-M02`：
+- 先推进 `DB-M02`：
   - 冻结九维字段、强度、置信与来源规则
+- 再补：
+  - `MemoryEpisode`
+  - `EpisodeFingerprint`
+  字段文档
 - 然后推进 `DB-K01 ~ DB-K03`：
   - 字典式记忆块
   - 在线脑补

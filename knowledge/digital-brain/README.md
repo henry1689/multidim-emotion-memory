@@ -8,6 +8,7 @@
 - `02-sub-architectures-zh.md`：子架构拆分、模块边界、数据流
 - `03-task-breakdown-zh.md`：任务编号、要求、标准、验收条件
 - `05-cognitive-collaborator-principles-zh.md`：认知协作者原则、边界与不确定性规则
+- `06-cue-signal-interpretation-zh.md`：`Cue / Signal / Interpretation` 三层定义
 
 ## 当前定位
 
