@@ -108,6 +108,8 @@ Use this file as the first resume note for the current unfinished task on this h
   - `DB-U02`
   - `DB-G01`
   - `DB-K03`
+- 已生成可直接转发给 Hermes 的正式任务书：
+  - `knowledge/digital-brain/11-hermes-handoff-brief-zh.md`
 
 ## Open Blockers
 
