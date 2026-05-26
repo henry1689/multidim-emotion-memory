@@ -92,6 +92,10 @@ Use this file as the first resume note for the current unfinished task on this h
     - `Cue`：原始线索
     - `Signal`：可观测模式
     - `Interpretation`：候选解释
+- 已完成 `DB-M02`：
+  - 冻结九维字段、分值、置信度和来源引用规范
+  - 建立统一 `DimensionTag` 结构
+  - 区分每一维的必填字段与推断字段
 - 已起草多 agent 协作协议：
   - 定义主控 agent、Hermes 总调度 agent 和执行 agent 的职责分工
   - 定义任务包格式、分支约定、状态枚举和冲突处理规则
@@ -99,7 +103,6 @@ Use this file as the first resume note for the current unfinished task on this h
 ## Open Blockers
 
 - `状态维` 是否进入正式九维仍未最终决定
-- `DB-M02` 中九维字段、强度、置信规则尚未成文
 - `DB-K02` 与 `DB-K03` 中在线脑补、离线脑补的对象复用规则尚未细化
 - demo 样例集尚未整理，后续无法做一致验收
 - `MemoryEpisode` 与 `EpisodeFingerprint` 字段结构尚未正式成文
@@ -107,9 +110,7 @@ Use this file as the first resume note for the current unfinished task on this h
 
 ## Suggested Next Step
 
-- 先推进 `DB-M02`：
-  - 冻结九维字段、强度、置信与来源规则
-- 再补：
+- 先补：
   - `MemoryEpisode`
   - `EpisodeFingerprint`
   字段文档

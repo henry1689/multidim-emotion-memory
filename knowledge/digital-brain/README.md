@@ -10,6 +10,7 @@
 - `05-cognitive-collaborator-principles-zh.md`：认知协作者原则、边界与不确定性规则
 - `06-cue-signal-interpretation-zh.md`：`Cue / Signal / Interpretation` 三层定义
 - `07-hermes-multi-agent-protocol-zh.md`：Hermes 多 agent 分包协议
+- `08-nine-dimension-spec-zh.md`：九维字段、分值、置信与来源规范
 
 ## 当前定位
 
