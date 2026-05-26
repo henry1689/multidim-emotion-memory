@@ -11,6 +11,8 @@
 - `06-cue-signal-interpretation-zh.md`：`Cue / Signal / Interpretation` 三层定义
 - `07-hermes-multi-agent-protocol-zh.md`：Hermes 多 agent 分包协议
 - `08-nine-dimension-spec-zh.md`：九维字段、分值、置信与来源规范
+- `09-memoryepisode-and-fingerprint-zh.md`：`MemoryEpisode` 与 `EpisodeFingerprint` 规范
+- `10-hermes-task-packets-batch-1-zh.md`：第一批 Hermes 任务包实例
 
 ## 当前定位
 

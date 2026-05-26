@@ -99,24 +99,29 @@ Use this file as the first resume note for the current unfinished task on this h
 - 已起草多 agent 协作协议：
   - 定义主控 agent、Hermes 总调度 agent 和执行 agent 的职责分工
   - 定义任务包格式、分支约定、状态枚举和冲突处理规则
+- 已补对象层关键文档：
+  - `MemoryEpisode`
+  - `EpisodeFingerprint`
+  字段结构与 `new / append / branch` 规则
+- 已生成第一批 Hermes 任务包实例：
+  - `DB-U01`
+  - `DB-U02`
+  - `DB-G01`
+  - `DB-K03`
 
 ## Open Blockers
 
 - `状态维` 是否进入正式九维仍未最终决定
 - `DB-K02` 与 `DB-K03` 中在线脑补、离线脑补的对象复用规则尚未细化
 - demo 样例集尚未整理，后续无法做一致验收
-- `MemoryEpisode` 与 `EpisodeFingerprint` 字段结构尚未正式成文
-- 第一批可直接下发给 Hermes 的任务包还未实例化
+- 多 agent 协作协议和任务包尚未经过实战验证
 
 ## Suggested Next Step
 
-- 先补：
-  - `MemoryEpisode`
-  - `EpisodeFingerprint`
-  字段文档
-- 然后推进 `DB-K01 ~ DB-K03`：
+- 先推进 `DB-K01 ~ DB-K03`：
   - 字典式记忆块
   - 在线脑补
   - 离线脑补
-- 等 `DB-M02` 稳定后：
-  - 生成第一批 Hermes 任务包
+- 再推进：
+  - `DB-G01`
+  - `DB-G02`

@@ -10,6 +10,7 @@
 - 远端同步状态：`connected`
 - 最近一次远端推送：`2026-05-26`
 - 多 agent 协作协议：`drafted`
+- 第一批任务包：`drafted`
 
 ## 时间表
 
@@ -89,10 +90,10 @@
 1. `状态维` 是否进入正式九维仍未最终决定。
 2. 在线脑补与离线脑补的对象复用规则还未细化。
 3. Demo 样例集尚未整理，后续难以做一致验收。
-4. `MemoryEpisode` 与 `EpisodeFingerprint` 仍未形成正式字段文档。
-5. 多 agent 协作协议已起草，但第一批任务包尚未正式实例化。
+4. 多 agent 协作协议与第一批任务包已起草，但尚未经过 Hermes 实战验证。
+5. `DB-K01 ~ DB-K03` 仍未正式落文。
 
 ## 当前下一步
 
-- 优先补 `MemoryEpisode` 与 `EpisodeFingerprint` 字段文档
-- 然后进入 `DB-K01 ~ DB-K03`
+- 优先进入 `DB-K01 ~ DB-K03`
+- 然后补 `DB-G01 / DB-G02`
